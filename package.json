@@ -1,0 +1,19 @@
+{
+  "name": "conversor-excel-pdf-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielMerigo/conversor-excel-pdf-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielMerigo/conversor-excel-pdf-nodejs/issues"
+  },
+  "homepage": "https://github.com/GabrielMerigo/conversor-excel-pdf-nodejs#readme"
+}
